@@ -31,8 +31,10 @@
 </p>
 
 ## Projects
-- Predictive Maintenance System
+- AI/ML based Predictive Maintenance System
 - E-commerce-Crochet-web-store
+- Real-time-chat-application
+- Real or Fake detector
 
 <!--
 **nikitab09/nikitab09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
