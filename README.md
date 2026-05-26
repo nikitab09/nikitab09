@@ -1,8 +1,9 @@
 # Hi, I'm Nikita 👋
 
 🎓 B.Tech CSE Student  
+🚀 Tech Enthusiast | Learning & Building Every Day
 💻 Interested in AI/ML and Web Development  
-🚀 Currently working on Predictive Maintenance System Project  
+  
 
 ## Languages & Technologies Known
 
