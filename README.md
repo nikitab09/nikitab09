@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nikita 👋
+
+🎓 B.Tech CSE Student  
+💻 Interested in AI/ML and Web Development  
+🚀 Currently working on Predictive Maintenance System Project  
+
+## Skills
+- Python
+- Java
+- C
+- MERN Stack
+- HTML/CSS/JS
+- Machine Learning
+
+
+## Projects
+- Predictive Maintenance System
+- Face Recognition System
 
 <!--
 **nikitab09/nikitab09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
